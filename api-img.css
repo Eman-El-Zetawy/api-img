@@ -3,7 +3,7 @@ body{
     margin: 0 auto ;
     padding: 4% 0 ;
     color:rgb(107, 29, 29);
-    font-size: 166%;
+    font-size: 32px;
     font-weight: bold ; 
  }
  .class-div{
@@ -71,6 +71,7 @@ body{
  }
  .para{
      background: rgba(194, 151, 151, 0.781) ;
+     font-size: 20px;
      position: relative;
      top:-17% ;
     left:32.5%;
